@@ -1,0 +1,77 @@
+{
+    "work_experience": [
+      {
+        "title": "Website Application Developer",
+        "yearStart": 2023,
+        "monthStart": 1,
+        "yearEnd": 2024,
+        "monthEnd": 8,
+        "current": true,
+        "subtitle": "Municipality of Nasugbu",
+        "description": "Collaborated on HRIS development, building system logic and integrating APIs for scalability. Designed a MySQL database, implemented CRUD operations, and created a real-time analytics dashboard, streamlining workflows and improving productivity."},
+      {
+        "title": "Website Application Developer",
+        "yearStart": 2021,
+        "monthStart": 5,
+        "yearEnd": 2022,
+        "monthEnd": 12,
+        "current": false,
+        "subtitle": "Famco Retail Incorporated",
+        "description": "Led a team to develop an online building permit system for a municipal office using PHP and JavaScript. Implemented text and email notifications, enhancing transparency and optimizing the application process."}
+    ],
+    "education": [
+      {
+        "title": "Graduate of Bachelor in Science in Information Technology",
+        "yearStart": 2020,
+        "monthStart": 9,
+        "yearEnd": 2020,
+        "monthEnd": 6,
+        "current": false,
+        "subtitle": "Batangas State University ARASOF",
+        "description": "Dean Lister in 2022, GWA 1.72.\nBest in analytics dashboard storytelling."
+      }
+    ],
+    "certificates": [
+      {
+        "title": "NCII Passer in Computer System Servicing - 2019 Certificate No. #19041002025189",
+        "yearStart": 2023,
+        "monthStart": 1,
+        "yearEnd": 2023,
+        "monthEnd": 3,
+        "current": false,
+        "subtitle": "Online Course",
+        "description": "Completed an advanced certification in Artificial Intelligence."
+      },
+      {
+        "title": "ITS Passer - Databases May 19, 2022 Certificate No. #W684L-48eu",
+        "yearStart": 2023,
+        "monthStart": 1,
+        "yearEnd": 2023,
+        "monthEnd": 3,
+        "current": false,
+        "subtitle": "Online Course",
+        "description": "Completed an advanced certification in Artificial Intelligence."
+      },
+      {
+        "title": "ITS Passer - Data Analytics May 23, 2023 Certificate No. #7LvT-uSzL",
+        "yearStart": 2023,
+        "monthStart": 1,
+        "yearEnd": 2023,
+        "monthEnd": 3,
+        "current": false,
+        "subtitle": "Online Course",
+        "description": "Completed an advanced certification in Artificial Intelligence."
+      },
+      {
+        "title": "PhilNITS Passer - Data Analytics November 2023 Certificate No. #IP2500127",
+        "yearStart": 2023,
+        "monthStart": 1,
+        "yearEnd": 2023,
+        "monthEnd": 3,
+        "current": false,
+        "subtitle": "Online Course",
+        "description": "Completed an advanced certification in Artificial Intelligence."
+      }
+    ]
+  }
+  
